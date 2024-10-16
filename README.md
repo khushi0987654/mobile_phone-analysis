@@ -1,4 +1,4 @@
-Data Collection and Storage
+### **_1. Data Collection and Storage_**
 Collect mobile phone data from various sources, including brand websites, tech reviews, and market reports.
 Data points to be collected include:
 Brand
@@ -9,7 +9,8 @@ Selfie Camera (MP)
 Internal Storage (e.g., 64GB, 128GB, 256GB)
 Price
 Other features (e.g., screen size, RAM, processor type)
-2. Data Preparation and Analysis
+### **_2. Data Preparation and Analysis_**
+
 Use Excel to perform initial data cleaning:
 Remove duplicates, handle missing values, and standardize data format.
 Use MySQL or SQL for deeper data analysis and storage:
@@ -21,10 +22,14 @@ OS distribution by number of devices (e.g., Android vs iOS).
 Average battery capacity for phones supporting 5G.
 Price trends based on internal storage and brand.
 Most common selfie camera resolutions in 2024.
-3. Creating the Dashboard in Power BI
+
+**### _3. Creating the Dashboard in Power BI_**
+
 Import cleaned and analyzed data from Excel or SQL to Power BI.
 Create a Home page for the dashboard, giving a high-level overview with KPIs such as total phones, top brands, average battery life, 5G availability percentage, and average selfie camera quality.
-4. Visualization Elements
+
+**_### 4. Visualization Elements_**
+
 Donut Chart:
 Visualize the market share by brand.
 Show the percentage of phones supporting 5G.
@@ -40,7 +45,9 @@ Table:
 Display detailed information for each phone model, including brand, battery capacity, OS, price, etc.
 KPI Indicators:
 Set up key performance indicators such as average price by brand, average battery life, or most common internal storage size.
-5. Powerful Insights
+
+**### _5. Powerful Insights_**
+
 Top Brands in 2024: Identify the brands leading the market in terms of the number of models and sales volume.
 5G Penetration: Insights into the percentage of phones supporting 5G technology and which brands are adopting it fastest.
 Battery Capacity Trends: Identify the trend toward larger battery sizes in 5G-supported phones, and compare average battery capacity by OS and brand.
